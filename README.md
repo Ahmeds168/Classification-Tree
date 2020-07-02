@@ -1,5 +1,5 @@
 # Classification-Tree
-In this project I will use scikit-learn and Cost Complexity Pruning to build this Classification Tree (below), which uses continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease:
+In this project I will use scikit-learn and Cost Complexity Pruning to build Classification Tree , which uses continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease:
 
 Classification Trees are an exceptionally useful machine learning method when you need to to know how the decisions are being made. For example, if you have to justify the predictions to your boss, Classification Trees are a good method because each step in the decision making process is easy to understand.
 
